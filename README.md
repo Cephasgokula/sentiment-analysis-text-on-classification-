@@ -3,10 +3,6 @@
 
 This repository contains an implementation of Text Classification (Sentiment Analysis) on the Multilingual Amazon Reviews dataset.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amir7d0/sentiment-analysis/blob/main/sentiment-analysis.ipynb)
-
-[![Open In W&B](https://assets.website-files.com/5ac6b7f2924c656f2b13a88c/60de02f3843862bd5d482a51_weights-and-biases-logo-black.svg)](https://api.wandb.ai/links/amir7d0/i1vbtnc9)
-
 ## Requirements
 ```sh
 transformers==4.26.1

@@ -20,7 +20,7 @@ pandas==1.5.3
 
 1. Clone the repository: 
 ```sh
-https://github.com/amir7d0/sentiment-analysis.git
+https://github.com/Cephasgokula/sentiment-analysis-text-on-classification-.git
 ```
 2. Edit the **`config.py`** file to set the fine-tuning parameters and the dataset to use.
 3. Run the training script:
